@@ -10,7 +10,7 @@ Modern, estetik ve sürükle-bırak (Drag & Drop) özellikli sanal kitaplık web
 - 📖 **Kitap Takibi:** Okunuyor, okundu, okunacak durumları ile filtreleme ve takip.
 - 🎨 **Minimalist & Şık Arayüz:** Göz yormayan, estetik ve kullanıcı dostu arayüz tasarımı.
 - ⚡ **Yüksek Performans:** Vite ve React 19 ile anlık ve akıcı sayfa etkileşimleri.
-- 📱 **Tam Responsive:** Masaüstü ve tablet ekranlarına kusursuz uyum.
+- 📱 **Tam Responsive:** Masaüstü ve mobil/tablet ekranlarına kusursuz uyum.
 
 ---
 
