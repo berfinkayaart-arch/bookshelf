@@ -1,16 +1,42 @@
-# React + Vite
+# 📚 Bookshelf - İnteraktif Dijital Kitaplık
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Modern, estetik ve sürükle-bırak (Drag & Drop) özellikli sanal kitaplık web uygulaması. Okuma alışkanlıklarınızı düzenlemek, okuduğunuz kitapları takip etmek ve kişiselleştirilmiş bir kütüphane deneyimi yaşamak için tasarlanmıştır.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Özellikler
 
-## React Compiler
+- 🖐️ **Sürükle & Bırak Düzenleme:** Kitapları raflar arasında serbestçe taşıma ve sıralama (`@dnd-kit`).
+- 📖 **Kitap Takibi:** Okunuyor, okundu, okunacak durumları ile filtreleme ve takip.
+- 🎨 **Minimalist & Şık Arayüz:** Göz yormayan, estetik ve kullanıcı dostu arayüz tasarımı.
+- ⚡ **Yüksek Performans:** Vite ve React 19 ile anlık ve akıcı sayfa etkileşimleri.
+- 📱 **Tam Responsive:** Masaüstü ve tablet ekranlarına kusursuz uyum.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Kullanılan Teknolojiler
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Frontend:** React 19, Vite
+- **Sürükle-Bırak:** `@dnd-kit/core`, `@dnd-kit/sortable`
+- **İkonlar:** `lucide-react`
+- **Stil & Tasarım:** Modern CSS & Responsive Layout
+
+---
+
+## 🚀 Kurulum ve Çalıştırma
+
+Projeyi yerel bilgisayarınızda çalıştırmak için:
+
+```bash
+# Bağımlılıkları yükleyin
+npm install
+
+# Geliştirme sunucusunu başlatın
+npm run dev
+```
+
+---
+
+## 👩‍💻 Geliştirici
+
+**Berfin Kaya** - [GitHub](https://github.com/berfinkayaart-arch)
